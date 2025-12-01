@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Home </title>
+</head>
+<body>
+<h1> HOME </h1>	
+<p>Rays of Hope started operating with one project in 1991 and has grown to a network of community-based programmes, focusing on education support, psychosocial support and family care. We currently have 400 children and their families in our programmes and have impacted thousands of people through the years. The organisation is hands-on in Alex, having developed close relationships with community leaders, the police, high schools, the Alexandra Clinic and the Department of Social Development, which has enabled it to leverage appropriate assistance when available and necessary.</p>
+<a href="index.html"> Home </a>
+<a href="about.html"> About</a>
+</body>
+</html>
